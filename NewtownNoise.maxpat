@@ -28,6 +28,21 @@
 		"tags" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-8",
+					"linecount" : 6,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 988.0, 427.0, 150.0, 87.0 ],
+					"text" : "This is just data from the Newton tragedy.\n\nIdea: Maybe split messages by day and bang those in sequence"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"bubble" : 1,
 					"bubblepoint" : 0.02,
 					"fontname" : "Arial",
@@ -3187,7 +3202,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 471.0, 436.0, 327.0, 31.0 ],
+					"patching_rect" : [ 653.25, 436.0, 327.0, 31.0 ],
 					"text" : "6 7 6 7 6 6 6 6 7 6 6 7 6 6 6 6 6 6 6 6 29 47 52 52 30 56 27 20"
 				}
 
